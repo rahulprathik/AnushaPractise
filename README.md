@@ -1,2 +1,1 @@
-# AnushaPractise
-Anusha practice
+Practise repository for GIT 
