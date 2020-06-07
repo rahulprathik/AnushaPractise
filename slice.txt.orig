@@ -1,0 +1,9 @@
+test
+<<<<<<< HEAD
+am in mastere branch
+add third line in master branch
+
+=======
+am in slice branc okh
+added third line in slice branch
+>>>>>>> slice
