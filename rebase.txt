@@ -1,2 +1,2 @@
 trying to understand rebase
-understood
+understood but small issues
